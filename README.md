@@ -1,6 +1,6 @@
 - 👋 Hi, I’m UshaSri
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning C/C++/Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
